@@ -1,0 +1,64 @@
+{
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Lait demi-écrémé",
+      "calories": 46,
+      "macros": {
+        "proteines": 3.3,
+        "glucides": 4.8,
+        "lipides": 1.5
+      },
+      "portion": 100,
+      "unite": "ml"
+    },
+    {
+      "id": 2,
+      "name": "Beurre de cacahuète",
+      "calories": 589,
+      "macros": {
+        "proteines": 25,
+        "glucides": 12,
+        "lipides": 50
+      },
+      "portion": 100,
+      "unite": "g"
+    },
+    {
+      "id": 3,
+      "name": "Flocons d'avoine",
+      "calories": 389,
+      "macros": {
+        "proteines": 13,
+        "glucides": 66,
+        "lipides": 7
+      },
+      "portion": 100,
+      "unite": "g"
+    },
+    {
+      "id": 4,
+      "name": "Banane",
+      "calories": 89,
+      "macros": {
+        "proteines": 1.1,
+        "glucides": 22.8,
+        "lipides": 0.3
+      },
+      "portion": 100,
+      "unite": "g"
+    },
+    {
+      "id": 5,
+      "name": "Miel",
+      "calories": 304,
+      "macros": {
+        "proteines": 0.3,
+        "glucides": 82.4,
+        "lipides": 0
+      },
+      "portion": 100,
+      "unite": "g"
+    }
+  ]
+} 
