@@ -130,8 +130,11 @@ const removeIngredient = (index: number) => {
           <div class="macro-info">
             <p class="calories">{{ ingredient.calories }}kcal/{{ ingredient.portion }}{{ ingredient.unite }}</p>
             <div class="macros">
+              <p>Protéines</p>
               <p>🥩 {{ ingredient.macros.proteines }}g</p>
+              <p>Glucides</p>
               <p>🍚 {{ ingredient.macros.glucides }}g</p>
+              <p>Lipides</p>
               <p>🥑 {{ ingredient.macros.lipides }}g</p>
             </div>
           </div>
